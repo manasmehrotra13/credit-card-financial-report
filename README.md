@@ -1,1 +1,1 @@
-# credit-card-financial-report
+I’ve put together a detailed project using Excel, PostgreSQL, and Power BI. My goal was to uncover insightful trends in credit card usage across different customer segments. Along the way, I used a range of methods and analytical techniques to make sure the results were spot on.
