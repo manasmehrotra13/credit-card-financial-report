@@ -5,6 +5,7 @@ I’ve put together a detailed project using Excel, PostgreSQL, and Power BI. My
 OBJECTIVE- To develop a comprehensive credit card weekly dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 INSIGHTS DERIVED FROM THIS PROJECT ARE- 
+
 Week Over Week Changes:
 1. Revenue increased by 28.8%,
 2. Total Transaction Amt & Count increased by 35.04% & 3.39% respectively
